@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+      "name": "John Doe",
+      "isOnline": true
+    },
+    {
+      "id": 2,
+      "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+      "name": "Jane Smith",
+      "isOnline": false
+    },
+    {
+      "id": 3,
+      "avatar": "https://randomuser.me/api/portraits/men/78.jpg",
+      "name": "Mark Wilson",
+      "isOnline": true
+    }
+  ]
+  

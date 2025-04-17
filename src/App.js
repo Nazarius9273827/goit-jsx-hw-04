@@ -1,9 +1,9 @@
 // import logo from './logo.svg';
 import './App.css';
 import data from './data.json';
-import Statistics from './Statistics/Statistics.jsx';
+import Statistics from './components/Statistics/Statistics.jsx';
 import friends from './friends.json';
-import FriendList from './FriendList';
+import FriendList from './components/Friendlist/FriendList.jsx';
 
 function App() {
   return (
